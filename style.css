@@ -219,6 +219,7 @@
 .sec img{
     padding: 18px 0;
     height: 350px;
+    gap: 15px;
 }
 .author{
     margin: 0 156px;
